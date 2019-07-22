@@ -1,5 +1,3 @@
-
-
 scalaVersion := "2.13.0"
 
 projectDependencies += "junit" % "junit" % "3.8.1" % "test"
